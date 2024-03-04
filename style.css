@@ -2,3 +2,12 @@ body{
     background-color: antiquewhite;
 }
 /* fdydydy */
+img{
+    width: 10%;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
