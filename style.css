@@ -20,3 +20,9 @@ header{
 .intro{
     display: flex;
 }
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
