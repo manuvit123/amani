@@ -40,4 +40,10 @@ a{
 
     display: grid;
     grid-template-columns: 33% 33% 33%;
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+}
+.foto-equipe{
+    width: 40%;
 }
