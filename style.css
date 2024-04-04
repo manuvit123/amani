@@ -35,3 +35,9 @@ a{
     color: black;
     text-decoration: none;
 }
+
+.equipe {
+
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
