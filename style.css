@@ -44,3 +44,7 @@ ul{
 .foto-equipe{
     width: 15%;
 }
+header a{
+    color: black;
+    text-decoration: none;
+}
