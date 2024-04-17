@@ -50,4 +50,5 @@ header a{
 }
 .integrantes{
     display: flex;
+    margin: 25px;
 }
